@@ -25,5 +25,3 @@ export function Jouer(etat: EtatJeu, colonne: number): EtatJeu {
   }
   return etat;
 }
-
-
